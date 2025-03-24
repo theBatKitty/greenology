@@ -1,0 +1,11 @@
+EcommerceApp/
+│── src/
+│   ├── models/
+│   │   ├── Usuario.java
+│   │   ├── Carrinho.java
+│   │   ├── Produto.java
+│   │   ├── Pedido.java
+│   │   ├── Estoque.java
+│   │   ├── Pagamento.java
+│   │   ├── Admin.java
+│   ├── Main.java
